@@ -1,6 +1,7 @@
 #include <iostream>
 #include <sales.h>
 #include <memory>
+#include <string.h>
 
 void SALES::setSales(SALES::Sales &s, const double ar[], int n)
 {

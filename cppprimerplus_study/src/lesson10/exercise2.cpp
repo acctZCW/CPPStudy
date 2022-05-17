@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+#include <string.h>
 
 class Person
 {
@@ -23,7 +23,7 @@ Person::Person()
 Person::Person(const std::string &ln, const char *fn)
 {
     this->lname = ln;
-    strcpy_s(this->fname,fn);
+    strcpy(this->fname,fn);
 }
 
 void Person::Show() const

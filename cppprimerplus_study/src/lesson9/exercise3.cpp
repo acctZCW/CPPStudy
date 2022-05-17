@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string.h>
 
 static char buffer[500];
 
