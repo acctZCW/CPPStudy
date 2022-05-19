@@ -1,0 +1,136 @@
+[
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL3E4", "-DNDEBUG", "-o", "build/.objs/L3E4/linux/x86_64/release/src/lesson3/exercise4.cpp.o", "src/lesson3/exercise4.cpp"],
+  "file": "src/lesson3/exercise4.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL10E6", "-DNDEBUG", "-o", "build/.objs/L10E6/linux/x86_64/release/src/lesson10/exercise6.cpp.o", "src/lesson10/exercise6.cpp"],
+  "file": "src/lesson10/exercise6.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL6E4", "-DNDEBUG", "-o", "build/.objs/L6E4/linux/x86_64/release/src/lesson6/exercise4.cpp.o", "src/lesson6/exercise4.cpp"],
+  "file": "src/lesson6/exercise4.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL7E4", "-DNDEBUG", "-o", "build/.objs/L7E4/linux/x86_64/release/src/lesson7/exercise4.cpp.o", "src/lesson7/exercise4.cpp"],
+  "file": "src/lesson7/exercise4.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL4E4", "-DNDEBUG", "-o", "build/.objs/L4E4/linux/x86_64/release/src/lesson4/exercise4.cpp.o", "src/lesson4/exercise4.cpp"],
+  "file": "src/lesson4/exercise4.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Isrc/lesson9", "-DL9E4", "-DNDEBUG", "-o", "build/.objs/L9E4/linux/x86_64/release/src/lesson9/exercise4.cpp.o", "src/lesson9/exercise4.cpp"],
+  "file": "src/lesson9/exercise4.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Isrc/lesson9", "-DL9E4", "-DNDEBUG", "-o", "build/.objs/L9E4/linux/x86_64/release/src/lesson9/sales.cpp.o", "src/lesson9/sales.cpp"],
+  "file": "src/lesson9/sales.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL8E4", "-DNDEBUG", "-o", "build/.objs/L8E4/linux/x86_64/release/src/lesson8/exercise4.cpp.o", "src/lesson8/exercise4.cpp"],
+  "file": "src/lesson8/exercise4.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL7E3", "-DNDEBUG", "-o", "build/.objs/L7E3/linux/x86_64/release/src/lesson7/exercise3.cpp.o", "src/lesson7/exercise3.cpp"],
+  "file": "src/lesson7/exercise3.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL10E7", "-DNDEBUG", "-o", "build/.objs/L10E7/linux/x86_64/release/src/lesson10/exercise7.cpp.o", "src/lesson10/exercise7.cpp"],
+  "file": "src/lesson10/exercise7.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL6E6", "-DNDEBUG", "-o", "build/.objs/L6E6/linux/x86_64/release/src/lesson6/exercise6.cpp.o", "src/lesson6/exercise6.cpp"],
+  "file": "src/lesson6/exercise6.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL4E5", "-DNDEBUG", "-o", "build/.objs/L4E5/linux/x86_64/release/src/lesson4/exercise5.cpp.o", "src/lesson4/exercise5.cpp"],
+  "file": "src/lesson4/exercise5.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL7E5", "-DNDEBUG", "-o", "build/.objs/L7E5/linux/x86_64/release/src/lesson7/exercise5.cpp.o", "src/lesson7/exercise5.cpp"],
+  "file": "src/lesson7/exercise5.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL10E1", "-DNDEBUG", "-o", "build/.objs/L10E1/linux/x86_64/release/src/lesson10/exercise1.cpp.o", "src/lesson10/exercise1.cpp"],
+  "file": "src/lesson10/exercise1.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL6E1", "-DNDEBUG", "-o", "build/.objs/L6E1/linux/x86_64/release/src/lesson6/exercise1.cpp.o", "src/lesson6/exercise1.cpp"],
+  "file": "src/lesson6/exercise1.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL4E9", "-DNDEBUG", "-o", "build/.objs/L4E9/linux/x86_64/release/src/lesson4/exercise9.cpp.o", "src/lesson4/exercise9.cpp"],
+  "file": "src/lesson4/exercise9.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Isrc/lesson9", "-DL9E1", "-DNDEBUG", "-o", "build/.objs/L9E1/linux/x86_64/release/src/lesson9/exercise1.cpp.o", "src/lesson9/exercise1.cpp"],
+  "file": "src/lesson9/exercise1.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Isrc/lesson9", "-DL9E1", "-DNDEBUG", "-o", "build/.objs/L9E1/linux/x86_64/release/src/lesson9/golf.cpp.o", "src/lesson9/golf.cpp"],
+  "file": "src/lesson9/golf.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL3E5", "-DNDEBUG", "-o", "build/.objs/L3E5/linux/x86_64/release/src/lesson3/exercise5.cpp.o", "src/lesson3/exercise5.cpp"],
+  "file": "src/lesson3/exercise5.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL10E2", "-DNDEBUG", "-o", "build/.objs/L10E2/linux/x86_64/release/src/lesson10/exercise2.cpp.o", "src/lesson10/exercise2.cpp"],
+  "file": "src/lesson10/exercise2.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL9E3", "-DNDEBUG", "-o", "build/.objs/L9E3/linux/x86_64/release/src/lesson9/exercise3.cpp.o", "src/lesson9/exercise3.cpp"],
+  "file": "src/lesson9/exercise3.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL7E6", "-DNDEBUG", "-o", "build/.objs/L7E6/linux/x86_64/release/src/lesson7/exercise6.cpp.o", "src/lesson7/exercise6.cpp"],
+  "file": "src/lesson7/exercise6.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL10E5", "-DNDEBUG", "-o", "build/.objs/L10E5/linux/x86_64/release/src/lesson10/exercise5.cpp.o", "src/lesson10/exercise5.cpp"],
+  "file": "src/lesson10/exercise5.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL8E7", "-DNDEBUG", "-o", "build/.objs/L8E7/linux/x86_64/release/src/lesson8/exercise7.cpp.o", "src/lesson8/exercise7.cpp"],
+  "file": "src/lesson8/exercise7.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL6E9", "-DNDEBUG", "-o", "build/.objs/L6E9/linux/x86_64/release/src/lesson6/exercise9.cpp.o", "src/lesson6/exercise9.cpp"],
+  "file": "src/lesson6/exercise9.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL3E3", "-DNDEBUG", "-o", "build/.objs/L3E3/linux/x86_64/release/src/lesson3/exercise3.cpp.o", "src/lesson3/exercise3.cpp"],
+  "file": "src/lesson3/exercise3.cpp"
+},
+{
+  "directory": "/home/zcw/project_cpp/cppprimerplus_study",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DL8E2", "-DNDEBUG", "-o", "build/.objs/L8E2/linux/x86_64/release/src/lesson8/exercise2.cpp.o", "src/lesson8/exercise2.cpp"],
+  "file": "src/lesson8/exercise2.cpp"
+}]

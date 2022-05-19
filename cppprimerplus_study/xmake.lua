@@ -1,4 +1,5 @@
 add_rules("mode.debug", "mode.release")
+set_languages("c11","cxx11")
 
 target("L3E3")
     set_kind("binary")
@@ -128,7 +129,8 @@ target("L10E7")
     set_kind("binary")
     add_files("src/lesson10/exercise7.cpp")
     add_defines("L10E7")
-    --
+
+--
 -- If you want to known more usage about xmake, please see https://xmake.io
 --
 -- ## FAQ
